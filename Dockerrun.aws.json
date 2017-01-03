@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "mark5280/django-boilerplate:latest",
+    "Name": "mark5280/django-beanstalk-tutorial:latest",
     "Update": "true"
   },
   "Ports": [
