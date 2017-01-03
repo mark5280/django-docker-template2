@@ -1,8 +1,7 @@
 {
     "AWSEBDockerrunVersion": 2, 
     "containerDefinitions": [
-        {
-            "containerPort": 8002, 
+        { 
             "essential": true, 
             "image": "mark5280/django-beanstalk-tutorial:latest", 
             "memory": 512, 
